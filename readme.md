@@ -1,11 +1,11 @@
 ## Steps for building the website
 
 1. Setting up the website's infrastructure
-   - [ ] Choose a web hosting service (e.g. Heroku)
-   - [ ] Set up the development environment (PHP, Caddy, Composer)
-   - [ ] Create a new Laravel project
-   - [ ] Set up the web server on Heroku
-   - [ ] Configure the database (MySQL)
+   - [x] Choose a web hosting service (e.g. Heroku)
+   - [x] Set up the development environment (PHP, Composer)
+   - [x] Create a new Laravel project
+   - [x] Set up the web server on Heroku (might change to a different server later)
+   - [ ] Configure the database 
 
 2. Implementing user authentication and registration
    - [ ] Create a registration form for users to sign up
@@ -34,5 +34,6 @@
       * Create account button (only appears when the user is not logged in)
    - [ ] Register a domain name
    - [ ] Point the domain name to the Heroku server's IP address
+
 
 ### This is a work in progress, and as such, I will continuously update this file
