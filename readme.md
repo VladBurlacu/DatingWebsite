@@ -54,3 +54,4 @@
     - [ ] Point the domain name to the Heroku server's IP address
 
 ### Note: This is a work in progress, and as such, I will continuously update this file.
+### Thoughts: After logging in, send the user to a dashboard where they have access to all the options available on the website. Here the user can also choose to start matching with others
