@@ -8,8 +8,9 @@
     - [x] Configure the database (MySQL)
 
 2. Designing the website
-    - [ ] Create wireframes for the necessary pages.
+    - [x] Create wireframes for the necessary pages.
         * Homepage
+        * Dashboard
         * Account creation
         * Account profile
         * The chat box
@@ -21,7 +22,7 @@
         * Home
         * About us (with detailed instructions about the process)
         * Login/Logout button
-        * Create account button (only appears when the user is not logged in)
+        * Create account button (only appears ![img.png](img.png)when the user is not logged in)
     - [ ] Use a parallax in the homepage with 3 slides:
         * "How does it work?" slide that explains how the matching system works.
         * "Join now!" slide which will lead to the account creation page.
