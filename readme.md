@@ -16,6 +16,7 @@
         * The chat box
         * About us page
         * Contact form
+    - [ ] Create user stories
     - [ ] Create a basic layout for the homepage.
     - [ ] Create the Navigation bar. (All the pages must have the same navbar) The Navigation bar will have the
       following buttons:
