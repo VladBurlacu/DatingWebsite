@@ -5,7 +5,7 @@
    - [x] Set up the development environment (PHP, Composer)
    - [x] Create a new Laravel project
    - [x] Set up the web server on Heroku (might change to a different server later)
-   - [ ] Configure the database 
+   - [x] Configure the database 
 
 2. Implementing user authentication and registration
    - [ ] Create a registration form for users to sign up
